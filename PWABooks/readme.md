@@ -1,6 +1,8 @@
 #Progressive Web Apps with Angular 2: PWA Books
 This repository contains a small sample application to show how a progressive web app can be built with Angular 2.
-It was written by Thinktecture exprt Steffen Jahr (https://github.com/SteffenJahr/pwa-books).
+It was written by Thinktecture expert Steffen Jahr (https://github.com/SteffenJahr/pwa-books).
+
+A fully working version can be found in the `after` folder.
 
 ## Installation
 ###Web / REST API
