@@ -37,3 +37,7 @@ jspm_packages
 .node_repl_history
 PWABooks/client/build
 PWABooks/client/typings
+PWABooks/after/client/build
+PWABooks/after/client/typings
+PWABooks/before_push/client/build
+PWABooks/before_push/client/typings
